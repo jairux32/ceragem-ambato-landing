@@ -112,7 +112,7 @@ export default function Location() {
                 Llamar ahora
               </a>
               <a
-                href="https://www.google.com/maps/dir/?api=1&destination=-1.4167,-78.9247"
+                href="https://www.google.com/maps/dir/?api=1&destination=-1.2643358,-78.6163123"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-transparent border-2 border-naranja text-naranja font-body font-semibold px-6 py-3.5 rounded-full hover:bg-naranja hover:text-white transition-colors"
