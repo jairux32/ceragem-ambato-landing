@@ -32,7 +32,7 @@ export default function Location() {
           >
             <div className="rounded-2xl overflow-hidden shadow-lg border border-gray-100 bg-white h-full min-h-[350px] lg:min-h-[450px]">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8206!2d-78.616750!3d-1.249460!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMcKwMTQnNTguMSJTIDc4wrAzNycwMC4zIlc!5e0!3m2!1ses!2sec!4v1"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8206!2d-78.6163123!3d-1.2643358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMcKwMTQnNTguMSJTIDc4wrAzNycwMC4zIlc!5e0!3m2!1ses!2sec!4v1"
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: '350px' }}

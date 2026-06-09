@@ -7,9 +7,9 @@ const socialLinks = [
     name: 'Facebook',
     icon: Facebook,
     iconColor: '#1877F2',
-    url: 'https://facebook.com/centrocalorterapeutico',
+    url: 'https://www.facebook.com/carmenglafira.vieraproano',
     description: 'Síguenos para promociones',
-    qrValue: 'https://facebook.com/centrocalorterapeutico',
+    qrValue: 'https://www.facebook.com/carmenglafira.vieraproano',
   },
   {
     name: 'Instagram',
