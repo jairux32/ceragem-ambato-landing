@@ -63,7 +63,9 @@ export default function Location() {
                     Dirección
                   </h3>
                   <p className="font-body text-base text-gray-600 leading-relaxed">
-                    Calles Febres Cordero entre Mariano Enríquez y Mariano Tinajero
+                    Calle Febres Cordero y Mariano Tinajero
+                    <br />
+                    Atrás del Polideportivo Iván Vallejo
                     <br />
                     Ambato, Ecuador
                   </p>
